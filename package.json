@@ -1,0 +1,1 @@
+{"name":"global-store-yemen-demo","version":"0.1.0","private":true,"description":"Interactive Arabic RTL preview for Global Store Yemen","scripts":{"dev":"npx serve .","start":"npx serve ."},"engines":{"node":">=18"}}
